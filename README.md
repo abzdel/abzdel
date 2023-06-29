@@ -26,7 +26,7 @@ I'm a developer mainly focused on machine learning and DevOps projects. Currentl
 ![](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 
 ## GitHub Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-
 <a href="https://github.com/abzdel">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abzdel&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Alex's github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abzdel"  alt="Alex's github stats" height="220px" />
 </a>
+
