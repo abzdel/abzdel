@@ -1,17 +1,15 @@
 # Hi, I'm Alex! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a developer mainly focused on machine learning and DevOps projects. Currently, I am focused on continuing to integrate state-of-the-art tools into my personal projects to ensure I stay up to date with our ever-changing field.
-
 ### Connect with me on LinkedIn or check out my portfolio below:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexbzdel)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://abzdel.github.io/)
 
 ## 👨‍💻 What keeps me busy
+* Data science work at Frontier
 * AWS Community Builder contributions
 * Building new portfolio projects to learn new tools & tech
 * Open source contributions
-* Independent consulting (ML & analytics work with the occasional web scraping/data extraction tasks)
 
 ## ⚡Some of my favorite tools
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
