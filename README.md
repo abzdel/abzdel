@@ -6,9 +6,8 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://abzdel.github.io/)
 
 ## 👨‍💻 What keeps me busy
-* Data science work at Frontier
-* AWS Community Builder contributions
-* Building new portfolio projects to learn new tools & tech
+* Data engineering work at Open Architects
+* Building new projects to learn new tools & tech
 * Open source contributions
 
 ## ⚡Some of my favorite tools
