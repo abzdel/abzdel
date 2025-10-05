@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25px"> Data & ML Engineer | Building the Future of Data Infrastructure
 
-I'm a **Data & Software Engineer** at **Open Architects**, where I build and maintain data infrastructure for educational analytics serving **130+ school districts**. I specialize in automating data pipelines, optimizing system performance, and ensuring reliable delivery of insights.
+I'm a **Data Engineer** at **Open Architects**, where I build and maintain data infrastructure for educational analytics serving **130+ school districts**. I specialize in automating data pipelines, optimizing system performance, and ensuring reliable delivery of insights.
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexbzdel)
